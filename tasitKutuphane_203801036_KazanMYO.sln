@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tasitKutuphane_203801036_KazanMYO", "tasitKutuphane_203801036_KazanMYO\tasitKutuphane_203801036_KazanMYO.csproj", "{C63DC588-BB9B-4477-AEDA-2EFC47029C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasit", "Tasit\Tasit.csproj", "{9F3C37A6-8395-4729-A79C-54CDA9B2F1A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63DC588-BB9B-4477-AEDA-2EFC47029C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63DC588-BB9B-4477-AEDA-2EFC47029C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63DC588-BB9B-4477-AEDA-2EFC47029C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63DC588-BB9B-4477-AEDA-2EFC47029C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3C37A6-8395-4729-A79C-54CDA9B2F1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3C37A6-8395-4729-A79C-54CDA9B2F1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3C37A6-8395-4729-A79C-54CDA9B2F1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3C37A6-8395-4729-A79C-54CDA9B2F1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53C20FD0-2324-404E-B86A-256EF7D22050}
+	EndGlobalSection
+EndGlobal
